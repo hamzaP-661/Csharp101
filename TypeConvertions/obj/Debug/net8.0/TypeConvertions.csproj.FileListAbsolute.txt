@@ -1,0 +1,15 @@
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\bin\Debug\net8.0\TypeConvertions.exe
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\bin\Debug\net8.0\TypeConvertions.deps.json
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\bin\Debug\net8.0\TypeConvertions.runtimeconfig.json
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\bin\Debug\net8.0\TypeConvertions.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\bin\Debug\net8.0\TypeConvertions.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.AssemblyInfoInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.AssemblyInfo.cs
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.sourcelink.json
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\refint\TypeConvertions.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\TypeConvertions.genruntimeconfig.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\TypeConvertions\obj\Debug\net8.0\ref\TypeConvertions.dll
