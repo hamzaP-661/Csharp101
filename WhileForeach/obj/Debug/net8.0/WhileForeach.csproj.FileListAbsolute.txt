@@ -1,0 +1,15 @@
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\bin\Debug\net8.0\WhileForeach.exe
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\bin\Debug\net8.0\WhileForeach.deps.json
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\bin\Debug\net8.0\WhileForeach.runtimeconfig.json
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\bin\Debug\net8.0\WhileForeach.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\bin\Debug\net8.0\WhileForeach.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfo.cs
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.sourcelink.json
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\refint\WhileForeach.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\WhileForeach.genruntimeconfig.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\WhileForeach\obj\Debug\net8.0\ref\WhileForeach.dll
