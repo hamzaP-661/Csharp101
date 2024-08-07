@@ -1,0 +1,15 @@
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\bin\Debug\net8.0\ForLoop.exe
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\bin\Debug\net8.0\ForLoop.deps.json
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\bin\Debug\net8.0\ForLoop.runtimeconfig.json
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\bin\Debug\net8.0\ForLoop.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\bin\Debug\net8.0\ForLoop.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfo.cs
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.sourcelink.json
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\refint\ForLoop.dll
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.pdb
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ForLoop.genruntimeconfig.cache
+C:\Users\hamza\Documents\GitHub\CSharp101\ForLoop\obj\Debug\net8.0\ref\ForLoop.dll
